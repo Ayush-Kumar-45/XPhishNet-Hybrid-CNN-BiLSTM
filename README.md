@@ -121,20 +121,7 @@ The system is designed to work with any textual content – emails, URLs, SMS, c
 | `urgency_score` | Medium |
 | `num_hyphens` | Medium |
 
----
 
-## 👥 Team & Contributions
-
-| Member | Role | Contributions |
-|--------|------|---------------|
-| *Your Name* | ML Engineer | Model architecture, training, feature engineering, SHAP explainability |
-| *Team Member 2* | Data Engineer | Dataset collection, preprocessing, cleaning |
-| *Team Member 3* | Frontend/API | Flask API development (optional) |
-| *Team Member 4* | Documentation | README, user guide, deployment |
-
-*(Adjust roles and names as needed.)*
-
----
 
 ## 🚀 Installation
 
